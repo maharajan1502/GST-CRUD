@@ -1,2 +1,9 @@
-backend\node_modules;
-frontend\node_modules;
+# Node modules
+backend\node_modules
+
+
+# # Env files
+# .env
+
+# Build folders (for frontend)
+frontend\node_modules
